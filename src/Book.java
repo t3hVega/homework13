@@ -7,7 +7,6 @@ public class Book {
         this.author = author;
         this.year = year;
     }
-
     public int getYear() {
         return year;
     }

@@ -10,5 +10,6 @@ public class Books {
         System.out.println(solaris.toString()
                 + " written by " + solaris.getAuthor().toString());
         System.out.println("ДЗ сделано");
+
     }
 }
